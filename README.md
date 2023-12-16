@@ -27,18 +27,19 @@
 
 </br>
 
-## 백신패스 DB
-![pass](https://github.com/orange11th/Covid19-Database/assets/82896260/6f6672da-35e6-447a-ba4c-c5be60025c8d)
-> ### 추가 기능
-> #### 입력/수정될 때 만료일이 등록일 +6개월로 자동 입력 
-> #### 동기화: 작동 시 만료일이 지난 데이터 자동으로 삭제
-</br>
-
 ## 격리병동 DB
 ![isolated](https://github.com/orange11th/Covid19-Database/assets/82896260/fe85bac8-9e19-4caa-8f82-c9779603a57f)
 > ### 추가 기능
 > #### 입력/수정될 때 퇴원일이 입원일+14일로 자동 입력
 > #### 동기화: 작동 시 퇴원일이 지난 데이터 자동으로 삭제
+
+</br>
+
+## 백신패스 DB
+![pass](https://github.com/orange11th/Covid19-Database/assets/82896260/6f6672da-35e6-447a-ba4c-c5be60025c8d)
+> ### 추가 기능
+> #### 입력/수정될 때 만료일이 등록일 +6개월로 자동 입력 
+> #### 동기화: 작동 시 만료일이 지난 데이터 자동으로 삭제
 
 </br>
 
