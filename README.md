@@ -1,11 +1,15 @@
 # Covid19-Database
 > ## 코로나 19 데이터베이스 웹 연동 프로젝트 입니다.
-> ### (2020년에 공부하면서 진행한 프로젝트라 퀄리티나 유지보수성이 좋지 않습니다. :cry: )
 
 <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"> 
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+
+</br>
+
+## 프로젝트 기간
+> ### 2021.12.14 ~ 2021.12.23 (2주)
 
 </br>
 
